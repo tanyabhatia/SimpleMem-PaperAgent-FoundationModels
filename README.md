@@ -1,4 +1,5 @@
 # SimpleMem PaperAgent 🧠
+NOTE: This has not been thoroughly tested as it for a class assignment. 
 
 > **Paper2Agent Implementation for SimpleMem**
 >
