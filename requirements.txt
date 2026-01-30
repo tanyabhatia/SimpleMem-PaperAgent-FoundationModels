@@ -1,0 +1,16 @@
+# SimpleMem PaperAgent - Python Dependencies
+
+# Core MCP Server Framework
+mcp>=1.0.0
+
+# For production SimpleMem (optional - install from GitHub)
+# git+https://github.com/aiming-lab/SimpleMem.git
+
+# Production SimpleMem dependencies (if using full implementation):
+# openai>=1.0.0
+# lancedb>=0.3.0
+# sentence-transformers>=2.0.0
+# numpy>=1.24.0
+# pandas>=2.0.0
+# rank-bm25>=0.2.2
+# python-dateutil>=2.8.0

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "simplemem-paperagent": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/simplemem_mcp_server.py"
+      ],
+      "env": {
+        "LOG_LEVEL": "INFO",
+        "SIMPLEMEM_DB_PATH": "./simplemem_mcp_data"
+      }
+    }
+  }
+}
